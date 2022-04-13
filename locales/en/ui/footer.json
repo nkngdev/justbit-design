@@ -1,0 +1,16 @@
+{
+  "dev_by": "Developed by",
+  "box_exchanger": "BoxExchanger",
+  "about": "About Us",
+  "rules": "Rules",
+  "contacts": "Contacts",
+  "support": {
+    "title": "Feedback",
+    "online": "Online Center",
+    "advice": "Write your question",
+    "name": "Enter your email",
+    "message": "Message",
+    "submit": "Send"
+
+  }
+}

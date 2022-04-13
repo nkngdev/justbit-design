@@ -1,0 +1,76 @@
+//@font-face {
+//  font-family: 'Avenir';
+//  src: url('~assets/fonts/Avenir-Roman.eot');
+//  src: local('Avenir Roman'), local('Avenir-Roman'),
+//  url('~assets/fonts/Avenir-Roman.eot?#iefix') format('embedded-opentype'),
+//  url('~assets/fonts/Avenir-Roman.woff2') format('woff2'),
+//  url('~assets/fonts/Avenir-Roman.woff') format('woff'),
+//  url('~assets/fonts/Avenir-Roman.ttf') format('truetype');
+//  font-weight: normal;
+//  font-style: normal;
+//  font-display: swap;
+//}
+
+@font-face {
+  font-family: 'Play-Bold';
+  src: url('~assets/fonts/Play-Bold.ttf');
+  src: local('Play Bold'), local('Play-Bold'),
+  //url('~assets/fonts/Avenir-Light.eot?#iefix') format('embedded-opentype'),
+  //url('~assets/fonts/Avenir-Light.woff2') format('woff2'),
+  //url('~assets/fonts/Avenir-Light.woff') format('woff'),
+  url('~assets/fonts/Play-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Play-Regular';
+  src: url('~assets/fonts/Play-Regular.ttf');
+  src: local('Play Regular'), local('Play-Regular'),
+  //url('~assets/fonts/Avenir-Heavy.eot?#iefix') format('embedded-opentype'),
+  //url('~assets/fonts/Avenir-Heavy.woff2') format('woff2'),
+  //url('~assets/fonts/Avenir-Heavy.woff') format('woff'),
+  url('~assets/fonts/Play-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Roboto-Regular';
+  src: url('~assets/fonts/Roboto-Regular.ttf');
+  src: local('Roboto Regular'), local('Roboto-Regular'),
+  //url('~assets/fonts/Avenir-Heavy.eot?#iefix') format('embedded-opentype'),
+  //url('~assets/fonts/Avenir-Heavy.woff2') format('woff2'),
+  //url('~assets/fonts/Avenir-Heavy.woff') format('woff'),
+  url('~assets/fonts/Roboto-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Roboto-Light';
+  src: url('~assets/fonts/Roboto-Light.ttf');
+  src: local('Roboto Light'), local('Roboto-Light'),
+  //url('~assets/fonts/Avenir-Heavy.eot?#iefix') format('embedded-opentype'),
+  //url('~assets/fonts/Avenir-Heavy.woff2') format('woff2'),
+  //url('~assets/fonts/Avenir-Heavy.woff') format('woff'),
+  url('~assets/fonts/Roboto-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Roboto-Medium';
+  src: url('~assets/fonts/Roboto-Light.ttf');
+  src: local('Roboto Medium'), local('Roboto-Medium'),
+  //url('~assets/fonts/Avenir-Heavy.eot?#iefix') format('embedded-opentype'),
+  //url('~assets/fonts/Avenir-Heavy.woff2') format('woff2'),
+  //url('~assets/fonts/Avenir-Heavy.woff') format('woff'),
+  url('~assets/fonts/Roboto-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+

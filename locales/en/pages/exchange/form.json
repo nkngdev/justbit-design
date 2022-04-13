@@ -1,0 +1,31 @@
+{
+  "from": {
+    "title": "Give away",
+    "choose": "Choose a currency",
+    "currency": "Currency",
+    "min": "Minimum amount"
+  },
+  "to": {
+    "title": "Take",
+    "choose": "Choose a currency",
+    "currency": "Currency",
+    "reserve": "Reserve:",
+    "reserve_text": "Excess reserve - do not set the amount above the specified maximum\n",
+    "rate": "Exchange rate:"
+  },
+  "details": {
+    "choose": "Fill in",
+    "title": "Exchange details",
+    "advice": "Read carefully",
+    "tel": "Phone",
+    "email": "Email",
+    "pocket_from": "With Wallet",
+    "pocket_to": "In wallet",
+    "rules": "By clicking this button, I agree with the rules.",
+    "submit": "Exchange"
+  },
+  "v2": {
+    "phone": "Телефон",
+    "walletNum": "Номер кошелька"
+  }
+}

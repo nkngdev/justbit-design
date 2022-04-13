@@ -1,0 +1,32 @@
+{
+  "status": {
+    "new": "Confirmation of the exchange",
+    "waitPayment": "Waiting for payment",
+    "inProgress": "Pending processing",
+    "inProgressPayout": "Processing",
+    "deleted": "Exchange removed",
+    "hold": "Exchange hold",
+    "done": "Exchange completed",
+    "returned": "Exchange returned"
+  },
+  "order_id": "ID:",
+  "total": "Total",
+  "time": {
+    "actual_until": "Actual until:",
+    "time_left": "Time left:"
+  },
+  "wait": {
+    "title": "To complete the exchange, you need to perform the following steps:",
+    "step": {
+      "log_in_to": "Log in to:",
+      "amount": "Amount:",
+      "to_account": "To account:",
+      "comment": "Payment comment:"
+    },
+    "btn": "I paid"
+  },
+  "order_table": {
+    "giving": "Giving",
+    "getting": "Getting"
+  }
+}

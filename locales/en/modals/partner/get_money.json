@@ -1,0 +1,7 @@
+{
+  "get_money": "Withdraw funds",
+  "no_routes": "There are no available directions for withdraw, please contact support to withdraw funds.",
+  "amountInUsd": "Amount (in USD)",
+  "youWillGet": "You will receive:",
+  "withdraw": "Withdraw"
+}

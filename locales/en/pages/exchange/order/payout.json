@@ -1,0 +1,9 @@
+{
+  "payout": "Payment processing payout",
+  "in_progress": {
+    "total": "Total",
+    "exchange_details": "Exchange details",
+    "submit": "Application send to progress",
+    "phone": "phone"
+  }
+}

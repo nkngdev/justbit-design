@@ -1,0 +1,30 @@
+
+.registration {
+
+  ul {
+    display: flex;
+    align-items: center;
+
+  }
+
+  li {
+    margin: 0px 6px 0px 0px;
+
+    button {
+      font-family: $ffRoboto_Regular;
+      font-weight: 400;
+      //font-size: 15px;
+    }
+
+    @include respond-to(tablet) {
+      &:last-child {
+        display: none;
+      }
+    }
+  }
+
+  a {
+    cursor: pointer;
+  }
+
+}
