@@ -7,7 +7,7 @@ RUN apk add --no-cache python  build-base gcc wget
 
 # Install app dependencies
 ENV NPM_CONFIG_LOGLEVEL warn
-RUN npm install
+RUN npm i -g npm@latest
 
 RUN npm run configure
 
