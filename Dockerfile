@@ -7,7 +7,7 @@ COPY . .
 
 # Install app dependencies
 ENV NPM_CONFIG_LOGLEVEL warn
-RUN npm install
+RUN npm install --no-package-lock
 RUN npm i -g npm@latest
 
 RUN npm run configure
