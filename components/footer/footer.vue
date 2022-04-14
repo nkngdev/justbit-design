@@ -4,7 +4,7 @@
       <div class="container">
         <p style="margin-left: 15px;">
           {{ $t("ui.footer.dev_by") }}
-          <a href="https://boxexchanger.net/" target="_blank" style="padding: 0;color:#282E38;">
+          <a href="https://just-bit.com/" target="_blank" style="padding: 0;color:#282E38;">
             {{ $t("ui.footer.box_exchanger") }}
           </a>
         </p>

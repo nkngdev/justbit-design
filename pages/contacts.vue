@@ -38,7 +38,7 @@
                   :placeholder="$t('page.contacts.your_email')"
                 />
               </p>
-              <p>
+              <p> 
                 <textarea
                   v-model="message"
                   v-validate="'required|min:6'"
